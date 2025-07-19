@@ -35,16 +35,61 @@ A full-stack science-themed guessing game built with Python Flask and styled usi
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/khizermahmud/Chemist.git
+git clone https://github.com/yourusername/chemist-diffusion-game.git
 cd chemist-diffusion-game
+```
 
-### 2. Clone the Repo
+### 2. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the App
+
 ```bash
 python app.py
+```
+
+Then open [http://localhost:5000](http://localhost:5000) in your browser.
+
+---
+
+## 📁 Project Structure
+
+```
+project/
+├── app.py                 # Flask application
+├── templates/             # Jinja2 HTML templates
+│   ├── base.html
+│   └── game.html
+├── static/                # CSS & JavaScript
+│   ├── style.css
+│   └── timer.js
+├── requirements.txt       # Python dependencies
+└── README.md              # You are here!
+```
+
+---
+
+## 💡 Future Ideas
+
+- 🎵 Add lab sound effects
+- 🧬 Leaderboard with database
+- 🔥 Animated acid reactions
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and learn from it!
+
+---
+
+## 👨‍🔬 Created by
+
+**Khizer Mahmud** – Made for fun, science, and code. 🔬
+
 
 
 
