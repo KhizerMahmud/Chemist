@@ -25,7 +25,8 @@ A full-stack science-themed guessing game built with Python Flask and styled usi
 
 ## 📸 Game Preview
 
-![screenshot](screenshots/demo.png)
+<img width="634" height="561" alt="image" src="https://github.com/user-attachments/assets/0a22364f-9e9c-4e42-8f23-941e359cc626" />
+
 
 ---
 
