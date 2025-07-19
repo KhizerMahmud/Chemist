@@ -37,3 +37,15 @@ A full-stack science-themed guessing game built with Python Flask and styled usi
 git clone https://github.com/khizermahmud/Chemist.git
 cd chemist-diffusion-game
 
+### 2. Clone the Repo
+```bash
+pip install -r requirements.txt
+
+### 3. Run the App
+```bash
+python app.py
+
+
+
+
+
